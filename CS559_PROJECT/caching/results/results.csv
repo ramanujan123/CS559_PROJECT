@@ -1,0 +1,10 @@
+/home/mitul/webresearch-030409-033109.1.blkparse,fiu,alecar6,5872,47253,53125,0,15,0.1,reuse,11.05,,1.46,|('learning_rate', 0.1)|
+/home/mitul/webresearch-030409-033109.1.blkparse,fiu,lecar,4530,48595,53125,0,15,0.1,reuse,8.53,,1.36,|('learning_rate', 0.1)|
+/home/mitul/msr-cambridge1-sample.csv,msr,alecar6,74,18851,18925,0,10,0.005,reuse,0.39,,0.36,|('learning_rate', 0.1)|
+/home/mitul/msr-cambridge1-sample.csv,msr,lecar,69,18856,18925,0,10,0.005,reuse,0.36,,0.35,|('learning_rate', 0.1)|
+/home/mitul/msr-cambridge1-sample.csv,msr,alecar6,155,18770,18925,0,20,0.01,reuse,0.82,,0.37,|('learning_rate', 0.1)|
+/home/mitul/msr-cambridge1-sample.csv,msr,lecar,156,18769,18916,0,20,0.01,reuse,0.82,,0.35,|('learning_rate', 0.1)|
+/home/mitul/msr-cambridge1-sample.csv,msr,alecar6,1122,17803,18854,0,103,0.05,reuse,5.93,,0.47,|('learning_rate', 0.1)|
+/home/mitul/msr-cambridge1-sample.csv,msr,lecar,1146,17779,18770,0,103,0.05,reuse,6.06,,0.37,|('learning_rate', 0.1)|
+/home/mitul/msr-cambridge1-sample.csv,msr,alecar6,1663,17262,18758,0,207,0.1,reuse,8.79,,0.45,|('learning_rate', 0.1)|
+/home/mitul/msr-cambridge1-sample.csv,msr,lecar,1781,17144,18671,0,207,0.1,reuse,9.41,,0.38,|('learning_rate', 0.1)|

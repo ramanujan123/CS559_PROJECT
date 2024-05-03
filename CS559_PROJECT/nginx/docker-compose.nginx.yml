@@ -1,0 +1,12 @@
+version: '3'
+services:
+  nginx:
+    image: nginx:latest
+    volumes:
+      - ./nginx_template/nginx/nginx.conf:/nginx_template/nginx/nginx.conf
+      - ./ml_cache/certs:/certs
+      - ./ml_cache/cache:/cache
+      - ./ml_cache/logs:/logs
+    ports:
+      - 80:80
+      - 443:443
